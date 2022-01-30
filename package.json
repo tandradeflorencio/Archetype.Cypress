@@ -1,0 +1,31 @@
+{
+  "name": "archetype.cypress",
+  "version": "1.0.0",
+  "description": "Archetype for behavior driven development using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "execute": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandradeflorencio/Archetype.Cypress.git"
+  },
+  "keywords": [
+    "Cypress",
+    "BDD",
+    "Test",
+    "QA",
+    "Archetype"
+  ],
+  "author": "Thiago Andrade Florencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tandradeflorencio/Archetype.Cypress/issues"
+  },
+  "homepage": "https://github.com/tandradeflorencio/Archetype.Cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  },
+  "dependencies": {}
+}
